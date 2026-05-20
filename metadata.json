@@ -1,0 +1,6 @@
+{
+  "name": "Floppy Dog Platformer",
+  "description": "A 2D platformer game featuring a white dog with floppy ears and a black nose, utilizing customized physics, multiple levels, and interactive elements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
